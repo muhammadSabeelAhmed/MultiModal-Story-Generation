@@ -48,7 +48,7 @@ The system extracts meaning from images and generates **context-aware, stylistic
 
 ## 🏗️ System Architecture
 
-  <img src="https://github.com/muhammadSabeelAhmed/MultiModal-Story-Generation/blob/main/multi-modal-architecture.jpeg", height=512, width=512 />
+  <img src="https://github.com/muhammadSabeelAhmed/MultiModal-Story-Generation/blob/main/multi-modal-architecture.jpeg"/>
 
 
 ---
